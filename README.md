@@ -49,5 +49,3 @@ workflow you named in step 3
 14. Press submit
 15. After a few seconds you will see a task activity – open it and you will see OpenAI’s completion to
 your prompt
-
-For example, in a Quick Workflow:
